@@ -1,0 +1,16 @@
+MAC:                           
+                          
+14:09:DC:E1:D9:4A
+
+请求 DHCP 时发送的主机名:  
+               
+21530172354FJ4014624
+
+请求 DHCP 时发送的客户端 ID:
+            
+1409DCE1D94A
+
+请求 DHCP 时发送的 Vendor Class:  
+   
+SCITV
+
